@@ -1,0 +1,11 @@
+db.properties
+/logs/*
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.out
+*.swp
+*.bak
